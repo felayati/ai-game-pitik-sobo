@@ -9,3 +9,4 @@ USER INSTRUCTIONS: Please read greenfoot documentation or via http://www.greenfo
 
 play
 enjoy
+#have fun
